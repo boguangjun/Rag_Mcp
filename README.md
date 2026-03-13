@@ -67,9 +67,9 @@ python rag_backend.py
 {
   "mcpServers": {
     "rag-knowledge-base": {
-      "command": "c:\\The_road\\python_pakage\\RAG_Mcp\\venv\\Scripts\\python.exe",
-      "args": ["c:\\The_road\\python_pakage\\RAG_Mcp\\mcp_shim.py"],
-      "cwd": "c:\\The_road\\python_pakage\\RAG_Mcp"
+      "command": "(你的虚拟环境所在位置)\\venv\\Scripts\\python.exe",
+      "args": ["(你的程序所在位置)\\RAG_Mcp\\mcp_shim.py"],
+      "cwd": "(你的程序所在位置)"
     }
   }
 }
