@@ -1,0 +1,7 @@
+chroma_db/
+models/
+venv/
+__pycache__/
+数据备份/
+*.pyc
+.env
