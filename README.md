@@ -1,5 +1,7 @@
 # RAG MCP 知识库系统
 
+[![gitcgr](https://gitcgr.com/badge/boguangjun/Rag_Mcp.svg)](https://gitcgr.com/boguangjun/Rag_Mcp)
+
 基于 ChromaDB 的 RAG（检索增强生成）知识库系统，提供 MCP 接口供大模型调用。
 
 ## 功能特性
